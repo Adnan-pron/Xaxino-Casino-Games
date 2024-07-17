@@ -2,6 +2,12 @@
 
 **Xaxino** is a Laravel-based platform designed for creating your own online prediction, casino, and guessing website. With an estimated 2.8 billion predictors globally and approximately 2,800 active prediction sites, Xaxino offers a lucrative opportunity in this booming market. Developed in response to numerous requests and inspired by popular platforms, Xaxino eliminates the need to spend thousands of dollars hiring developers. It provides a comprehensive, ready-to-go solution, allowing you to set up your website in just a few minutes.
 
+
+### Installation and Support
+Xaxino is designed for easy installation and control through the admin panel. We provide responsive support, installation, and customization services to ensure your platform meets your specific needs.
+
+For more information or support, you can contact us via Telegram: [@codecraftmens](https://t.me/codecraftmens) or email: [codecraftmens@gmail.com](mailto:codecraftmens@gmail.com).
+
 ![Xaxino](68747470733a2f2f7363726970742e76697365726c61622e636f6d2f786178696e6f2f65787472612f6465736372697074696f6e5f696d61676532332e706e67.png)
 
 ### Key Features
