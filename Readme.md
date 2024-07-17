@@ -10,6 +10,8 @@
 - **Responsive Design**: Access the platform from both PC and mobile devices with ease.
 - **High Security**: Built-in security features to ensure a safe and reliable experience.
 - **Interactive UI**: Enjoy a user-friendly and dynamic interface.
+- 
+https://github.com/Adnan-pron/Xaxino-Casino-Games/commit/4f2392ebfe03730e69a08a79ec48ffbf009fba4f
 
 ### Platform Highlights
 - **8 Controllable Casino Prediction Games**: Manage directly from the admin panel.
